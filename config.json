@@ -1,0 +1,10 @@
+{
+  "url": "https://github.com/subdense/annotation-iasi-2024-dataset.git",
+  "base": "/annotation-iasi-2024/",
+  "dir": "/datasets",
+  "fsname": "annotator-data",
+  "useIsomorphicProxy": "true",
+  "corsProxyIsomorphic": "https://cors.isomorphic-git.org",
+  "corsProxyDefault": "https://gitcorsproxy.vercel.app/api/cors",
+  "annotationSetup": {"iasi/samples.json":[["no change","construction","destruction","reconstruction","geometry issue","NA"]]}
+}
