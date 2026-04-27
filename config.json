@@ -6,5 +6,6 @@
   "useIsomorphicProxy": "true",
   "corsProxyIsomorphic": "https://cors.isomorphic-git.org",
   "corsProxyDefault": "https://gitcorsproxy.vercel.app/api/cors",
-  "annotationSetup": {"iasi/samples.json":[["1-1","0-1","1-0","m-n","IDK"]]}
+  "annotationSetup": {"iasi/samples.json":[["1-1","0-1","1-0","m-n","IDK"]]},
+  "maxNumberOfAnnotations": 1
 }
